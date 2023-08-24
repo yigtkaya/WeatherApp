@@ -1,13 +1,12 @@
 # Simple WeatherApp
 
-Simple weather app using https://open-meteo.com/ api. First time trying compose. 
+Simple weather app using https://open-meteo.com/ API. First time trying to Jetpack Compose. 
 
-- courotines
+- coroutines
 - retrofit
 - dagger
 - compose
 - Location services, Permission handling
 
 ## Screenshots
-    <img src="https://github.com/yigtkaya/WeatherApp/assets/68725704/ab8f4465-5e75-4e26-9631-b81b6753114b" width="200" height="400" />
-    
+     ![img|320x271](https://github.com/yigtkaya/WeatherApp/assets/68725704/4ce043c2-2b2c-406e-aa70-7582321daf74)
