@@ -59,9 +59,7 @@ class MainActivity : ComponentActivity() {
                         .background(Color.Black)
 
                 ){
-                    Column (
-
-                    ){
+                    Column{
                         WeatherCard(
                             modifier = Modifier,
                             state = viewModel.state,
